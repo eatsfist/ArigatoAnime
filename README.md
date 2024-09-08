@@ -1,2 +1,2 @@
-# ArigatoAnime
-Keep track of your anime watchlist
+# Jestarot
+A tarot site so good you'll no longer be a jester
